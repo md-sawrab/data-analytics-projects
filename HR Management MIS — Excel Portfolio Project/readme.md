@@ -1,6 +1,6 @@
 # HR Management MIS — Excel Portfolio Project
 
-A complete, formula-driven HR Management Information System built entirely in Microsoft Excel (2019-compatible). This project simulates a real company's HR operations — employee records, attendance, leave, payroll, performance, and recruitment — tied together with 60+ formulas and a live dashboard.
+A complete, formula-driven HR Management Information System built entirely in Microsoft Excel. This project simulates a real company's HR operations — employee records, attendance, leave, payroll, performance, and recruitment — tied together with formulas and a live dashboard.
 
 ## 📌 Project Overview
 
@@ -51,6 +51,9 @@ A complete, formula-driven HR Management Information System built entirely in Mi
 - **Recruitment Pipeline Breakdown** — Candidate count by hiring stage
 - **Charts** — Department headcount (bar) and recruitment pipeline (pie)
 
+<img width="1852" height="686" alt="image" src="https://github.com/user-attachments/assets/28287d05-b0e4-490e-a19e-aecc4851c1f4" />
+
+
 ## ✅ Data Validation
 
 Dropdown lists applied to prevent bad data entry:
@@ -64,13 +67,4 @@ Dropdown lists applied to prevent bad data entry:
 - Cross-sheet lookups and conditional aggregation at scale (1,000+ rows)
 - Building KPIs and visual reporting entirely from formulas — no manual calculation
 - Data quality validation using information functions
-- Excel 2019 compatibility awareness (avoiding 365-only functions like `XLOOKUP`, `FILTER`, `UNIQUE`)
 
-## 🔜 Next Steps
-
-- Add Pivot Tables for deeper ad-hoc analysis
-- Expand to Power Query for automated data refresh
-- Explore basic VBA/macros for one-click report generation
-
----
-*Built as a hands-on practice project after completing a 9-chapter Excel formula review (Math, Logical, Text, Lookup, Conditional, Date/Time, Statistical, Information, Dynamic Array functions).*
